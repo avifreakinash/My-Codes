@@ -1,2 +1,2 @@
 # My-Codes
-Repository for C codes
+This will be the Repository for my C codes. 
